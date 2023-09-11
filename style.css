@@ -1,0 +1,62 @@
+/** selector universal */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Hind', sans-serif;
+}
+.accordion-body {
+    height: 600px;
+}
+
+body {
+    margin: 2px;
+    background-color: rgb(123, 161, 185);
+    justify-content: space-between;
+    height: 100px;
+}
+.nivel1{
+    text-align: center;
+}
+#nota {
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border: 3px solid #000;
+    margin-top: 10px;
+    background-color: rgb(44, 171, 84);
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 2%;
+}
+
+input{
+    margin: 2px;
+    width: 14%;
+    height: 40px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+#boton1, #boton2 {
+display: flex;
+justify-content: center;
+margin-top: 5px;
+margin-right: 40%;
+width: 100px;
+align-items: center;
+}
+
+/* GENERALES **/
+h1 {
+    font-size: 200%;
+    color: rgb(67, 67, 103);
+    font-family: 'Hind', sans-serif;
+    text-align: center;
+    justify-content: center;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+h2{
+    text-align: center;
+}
