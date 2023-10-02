@@ -1,0 +1,10 @@
+{
+    "respuestas":
+    [
+        {"respuestaId" : "respuesta1", "respuestaCorrecta" : "4"},
+        {"respuestaId" : "respuesta2", "respuestaCorrecta" : "1"},
+        {"respuestaId" : "respuesta3", "respuestaCorrecta" : "1"},
+        {"respuestaId" : "respuesta4", "respuestaCorrecta" : "8"},
+        {"respuestaId" : "respuesta5", "respuestaCorrecta" : "3"}
+    ]
+}
